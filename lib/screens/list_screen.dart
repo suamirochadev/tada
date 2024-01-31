@@ -8,7 +8,7 @@ import 'package:tada/widgets/custom_text_field.dart';
 import 'login_screen.dart';
 
 class ListScreen extends StatefulWidget {
-  const ListScreen({Key? key}) : super(key: key);
+  const ListScreen({super.key});
 
   @override
   _ListScreenState createState() => _ListScreenState();
